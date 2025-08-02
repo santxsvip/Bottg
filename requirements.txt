@@ -1,1 +1,3 @@
 aiogram==3.7.0
+aiohttp
+sqlite3
